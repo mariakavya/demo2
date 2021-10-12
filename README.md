@@ -2,4 +2,4 @@
 
 Created a readme file.
 
-## Testing Reset commandq
+## Testing Reset command
